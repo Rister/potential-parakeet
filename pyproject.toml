@@ -1,0 +1,5 @@
+[project]
+name = "potential-parakeet"
+authors = [
+	{name = "Jeremy Rist", email = "noneof@your.business"},
+]
