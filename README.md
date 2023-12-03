@@ -27,6 +27,7 @@ The basic idea is an application that will accurately record a *solo roleplaying
 - [Make a README](https://makeareadme.com)
 - [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 - [Semantic Versioning](https://semver.org)
+- [EditorConfig](https://editorconfig.org)
 
 ## License
 
